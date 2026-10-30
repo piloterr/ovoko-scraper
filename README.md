@@ -151,7 +151,7 @@ Example response from the API reference, abridged — real values depend on the 
     "https://images.ovoko.com/bl/542x407/mth/0/0/0/0/0/8/6/6/3/c496a92f17dc1e839aebddf482037e83-audi_a4_s4_b9_front_bumper.jpg"
   ],
   "seller": {
-    "name": "mathayus"
+    "name": "example"
   },
   "status": "IN_STOCK",
   "quality": "USED",
@@ -302,7 +302,7 @@ Example response from the API reference, abridged — real values depend on the 
       "price": 200.01,
       "title": "Uszczelka tylnej klapy bagażnika",
       "seller": {
-        "name": "FIRMA HANDLOWA - JAKUB SYCZ"
+        "name": "example"
       },
       "vehicle": "Porsche Macan (95C)  2024  0cm3  0kW Manualna",
       "currency": "PLN",
